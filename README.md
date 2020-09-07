@@ -2,6 +2,7 @@
 ## Associate Android Developer Practice Project
 
 libraries used in this project
+    
     - LiveData 2.2.0 (ktx version)
     - ViewModel 2.2.0 (ktx version)
     - Retrofit 2.9.0
